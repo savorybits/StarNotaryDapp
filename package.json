@@ -1,0 +1,14 @@
+{
+    "private": true,
+    "scripts": {
+      "build": "webpack",
+      "dev": "webpack-dev-server"
+    },
+    "devDependencies": {
+        "openzeppelin-solidity": "^2.5.1",
+        "truffle-hdwallet-provider": "^1.0.2"
+    },
+    "dependencies": {
+      "web3": "^1.0.0-beta.37"
+    }
+  }
